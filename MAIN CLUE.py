@@ -12,10 +12,7 @@
 
 #                  ----PARAGRAPH----
 
-text="Long After Midnight, When The City Had Almost Forgotten its Own Noise,
-      a Sudden Burst of Confusion Spread Through The Narrow Streets as Distant Flashing Reflections Appeared on Glass Windows,
-      While Scattered Lights From Passing Vehicles Flickered Unpredictably and People Rushed Outside in Panic,
-      Hearing Faint Cries and The Growing Sound of Screaming Voices Mixed With Urgency Before The Sharp Wail Of Sirens Cut Through Everything."
+text="Long After Midnight, When The City Had Almost Forgotten its Own Noise, a Sudden Burst of Confusion Spread Through The Narrow Streets as Distant Flashing Reflections Appeared on Glass Windows, While Scattered Lights From Passing Vehicles Flickered Unpredictably and People Rushed Outside in Panic, Hearing Faint Cries and The Growing Sound of Screaming Voices Mixed With Urgency Before The Sharp Wail Of Sirens Cut Through Everything."
 
 
 words=text.split()
