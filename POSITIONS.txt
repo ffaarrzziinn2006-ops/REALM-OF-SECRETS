@@ -2,7 +2,7 @@
 
 
 
-# FIVE NUMBERS ARE TO BE FOUND BY SLOVING
+# FIVE NUMBERS ARE TO BE FOUND BY SOLVING
 
 
      #1.“Long after midnight, the Twenty-fifth light flickered strangely…”
