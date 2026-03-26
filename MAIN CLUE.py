@@ -8,6 +8,8 @@
 
 #AFTER FINDING THE POSITIONS COPY THE CODE INTO ANY PYTHON COMPILER 
 
+#THE POSITIONS CLUES CAN BE FOUND IN THE OTHER FILE
+#FIND THEM AND PLACE THEM IN THE CODE
 
 
 #                  ----PARAGRAPH----
@@ -20,7 +22,7 @@ words=text.split()
 
 #THE POSITION OF FIVE WORDS NEED TO BE FOUND
 
-positions=[  , , , ,  ]
+positions=[  , , , ,  ]  #FIND POSITIONS AND INPUT HERE
 
 print("THE NEXT CLUE IS:\n")   
 for p in positions:
@@ -29,9 +31,5 @@ for p in positions:
 print("\nCOME FIND ME!!!!")    
     
 
-
-
-#THE POSITIONS CLUES CAN BE FOUND IN THE OTHER FILE
-#FIND THEM AND PLACE THEM IN THE CODE
     
     
